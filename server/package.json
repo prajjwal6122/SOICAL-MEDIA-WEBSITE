@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Social media website server",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajjwal6122/SOICAL-MEDIA-WEBSITE.git"
+  },
+  "author": "prajjwal sharmA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajjwal6122/SOICAL-MEDIA-WEBSITE/issues"
+  },
+  "homepage": "https://github.com/prajjwal6122/SOICAL-MEDIA-WEBSITE#readme"
+}
